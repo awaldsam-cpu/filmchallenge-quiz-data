@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "quizzes": [
+    {
+      "tmdbID": 5255,
+      "version": 1,
+      "file": "ReviewedQuiz-5255-v1.json",
+      "sha256": "cdc751aff82c3887aa67b1cffe6fa52e05eaf6ed2cf09858cdd352594dd2d53b"
+    }
+  ]
+}
