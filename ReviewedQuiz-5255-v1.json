@@ -1,0 +1,205 @@
+{
+  "tmdbID": 5255,
+  "quizVersion": 1,
+  "runtimeMinutes": 100,
+  "genre": "Animation",
+  "reviewStatus": "reviewed",
+  "app_freigabe": true,
+  "quelle": {
+    "filmtitel": "Der Polarexpress",
+    "erscheinungsjahr": 2004,
+    "tmdb_id": 5255,
+    "sprache": "de",
+    "artikel": "Der Polarexpress",
+    "quellen_url": "https://de.wikipedia.org/wiki/Der_Polarexpress#Handlung",
+    "seitenversion": 271084736,
+    "versions_url": "https://de.wikipedia.org/wiki/Special:PermanentLink/271084736#Handlung",
+    "autorenschaft": "Autorinnen und Autoren der deutschsprachigen Wikipedia",
+    "versionsgeschichte_url": "https://de.wikipedia.org/w/index.php?title=Der+Polarexpress&action=history",
+    "wikidata_url": "https://www.wikidata.org/wiki/Q862197",
+    "lizenz": {
+      "name": "Creative Commons Attribution-Share Alike 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/deed.de"
+    },
+    "bearbeitung": "Die Belegtexte im Quizpaket sind eigenständig formulierte Paraphrasen der angegebenen Wikipedia-Sätze. Die IDs verweisen auf die lokale Belegdatei zur gespeicherten Revision.",
+    "woerter": 974
+  },
+  "belege": [
+    {
+      "id": "F3",
+      "absatz": 1,
+      "text": "Vor dem Einsteigen erfährt der Junge vom Schaffner, dass der Zug zum Nordpol fährt."
+    },
+    {
+      "id": "F7",
+      "absatz": 2,
+      "text": "Das Mädchen stellt sein Getränk unter den Sitz, weil es Billy zugedacht ist."
+    },
+    {
+      "id": "F17",
+      "absatz": 3,
+      "text": "Als Lokführer und Heizer an der Vorderseite der Lok sind, sehen sie eine Herde Karibus."
+    },
+    {
+      "id": "F22",
+      "absatz": 4,
+      "text": "Die Gleise setzen auf der anderen Seite des Sees wieder ein. Dazwischen rollt der Zug direkt über die Eisfläche."
+    },
+    {
+      "id": "F30",
+      "absatz": 5,
+      "text": "Der Junge löst den letzten Wagen versehentlich vom Zug. Dieser rollt einen Hang hinab bis zu einer Drehscheibe."
+    },
+    {
+      "id": "F45",
+      "absatz": 6,
+      "text": "Als der Weihnachtsmann dem Jungen die Wahl des ersten Geschenks überlässt, bittet er um das Glöckchen."
+    }
+  ],
+  "questions": [
+    {
+      "id": "tmdb-5255-plot-01",
+      "filmID": "tmdb:5255",
+      "kind": "plot",
+      "difficulty": "easy",
+      "recommendedMinimumAge": 6,
+      "prompt": "Welches Reiseziel nennt der Schaffner, als der Junge vor seiner Haustür steht?",
+      "options": [
+        "Zum Südpol",
+        "Zum Nordpol",
+        "Nach Lappland",
+        "In die nächste Stadt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der Schaffner lädt den Jungen zur Fahrt zum Nordpol ein.",
+      "source": {
+        "title": "Der Polarexpress",
+        "url": "https://de.wikipedia.org/wiki/Special:PermanentLink/271084736#Handlung"
+      },
+      "internalFactIDs": [
+        "F3"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "tmdb-5255-plot-02",
+      "filmID": "tmdb:5255",
+      "kind": "plot",
+      "difficulty": "easy",
+      "recommendedMinimumAge": 6,
+      "prompt": "Für wen hebt das Mädchen seine heiße Schokolade auf?",
+      "options": [
+        "Der Schaffner",
+        "Der Lokführer",
+        "Der Neunmalkluge",
+        "Billy"
+      ],
+      "correctIndex": 3,
+      "explanation": "Das Mädchen stellt seine heiße Schokolade beiseite, damit Billy sie später bekommt.",
+      "source": {
+        "title": "Der Polarexpress",
+        "url": "https://de.wikipedia.org/wiki/Special:PermanentLink/271084736#Handlung"
+      },
+      "internalFactIDs": [
+        "F7"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "tmdb-5255-plot-03",
+      "filmID": "tmdb:5255",
+      "kind": "plot",
+      "difficulty": "normal",
+      "recommendedMinimumAge": 8,
+      "prompt": "Welche Tiere entdecken Lokführer und Heizer vor dem Zug?",
+      "options": [
+        "Karibus",
+        "Wölfe",
+        "Eisbären",
+        "Schneehasen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lokführer und Heizer entdecken eine Karibuherde vor der Lok.",
+      "source": {
+        "title": "Der Polarexpress",
+        "url": "https://de.wikipedia.org/wiki/Special:PermanentLink/271084736#Handlung"
+      },
+      "internalFactIDs": [
+        "F17"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "tmdb-5255-plot-04",
+      "filmID": "tmdb:5255",
+      "kind": "plot",
+      "difficulty": "normal",
+      "recommendedMinimumAge": 8,
+      "prompt": "Worüber fährt der Zug ein Stück ohne Schienen?",
+      "options": [
+        "Über eine Holzbrücke",
+        "Über einen Bahnsteig",
+        "Über das Eis",
+        "Über eine verschneite Straße"
+      ],
+      "correctIndex": 2,
+      "explanation": "Auf dem zugefrorenen See muss der Zug ohne Schienen über das Eis weiterfahren.",
+      "source": {
+        "title": "Der Polarexpress",
+        "url": "https://de.wikipedia.org/wiki/Special:PermanentLink/271084736#Handlung"
+      },
+      "internalFactIDs": [
+        "F22"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "tmdb-5255-plot-05",
+      "filmID": "tmdb:5255",
+      "kind": "plot",
+      "difficulty": "normal",
+      "recommendedMinimumAge": 8,
+      "prompt": "Was passiert mit dem letzten Waggon, als er sich am Nordpol vom Zug löst?",
+      "options": [
+        "Er fährt zurück zum Bahnhof",
+        "Er rollt einen Hang hinunter",
+        "Er wird von einer zweiten Lok abgeholt",
+        "Er bleibt direkt am Bahnsteig stehen"
+      ],
+      "correctIndex": 1,
+      "explanation": "Der letzte Waggon rollt einen Hang hinunter und kommt auf einer Drehscheibe zum Stehen.",
+      "source": {
+        "title": "Der Polarexpress",
+        "url": "https://de.wikipedia.org/wiki/Special:PermanentLink/271084736#Handlung"
+      },
+      "internalFactIDs": [
+        "F30"
+      ],
+      "reviewStatus": "reviewed"
+    },
+    {
+      "id": "tmdb-5255-plot-06",
+      "filmID": "tmdb:5255",
+      "kind": "plot",
+      "difficulty": "easy",
+      "recommendedMinimumAge": 6,
+      "prompt": "Welches Geschenk wünscht sich der Junge vom Weihnachtsmann?",
+      "options": [
+        "Eine Spielzeugeisenbahn",
+        "Eine goldene Fahrkarte",
+        "Eine rote Weihnachtsmütze",
+        "Das Glöckchen des Weihnachtsmannes"
+      ],
+      "correctIndex": 3,
+      "explanation": "Der Junge darf sich das erste Geschenk aussuchen und entscheidet sich für das Glöckchen.",
+      "source": {
+        "title": "Der Polarexpress",
+        "url": "https://de.wikipedia.org/wiki/Special:PermanentLink/271084736#Handlung"
+      },
+      "internalFactIDs": [
+        "F45"
+      ],
+      "reviewStatus": "reviewed"
+    }
+  ]
+}
